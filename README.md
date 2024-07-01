@@ -8,7 +8,7 @@ There are files under "Core Files" folder. They will be explained here
 # Documentation
 
 ### Core Files
-There is a folder named "Core Files" that holds the important scripts needed to run the program overall
+There is a folder named "Core Files" that holds the important scripts needed to run the program
 
 - AddressBook.cs
 - CheckFile.cs
