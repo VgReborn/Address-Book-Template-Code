@@ -73,6 +73,7 @@ I could write this in the same script in AddressBook.cs but if I really wanted t
 
 This file contains the custom type/s needed in the "AddressBook.cs" file. Without it, the whole thing breaks.
 
+***
 I do not really have any plan on working on more features. This is meant to be as barebones as possible so <br> 
 that it can be wrapped on any .NET application or can be used to learn how C# works. I am not a 10x <br>
 programmer/developer or the best programmer out here so expect some malpractices on my code, bad written code, or bad documentation.
