@@ -79,7 +79,7 @@ that it can be wrapped on any .NET application or can be used to learn how C# wo
 programmer/developer or the best programmer out here so expect some malpractices on my code, bad written code, or bad documentation.
 
 **Note: Due to the barebone nature of this program, there are tons of tools missing that you may need like directly manipulate a certain<br>**
-**data in a specific index, and you may need to implemnt it. (It is really easy but I cannot assume what the developer may need)**
+**data in a specific index, and you may need to implement it. (It is really easy but I cannot assume what the developer may need)**
 
 This project is licensed under the terms of the Unlicensed license.
 
