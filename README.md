@@ -15,7 +15,7 @@ There is a folder named "Core Files" that holds the important scripts needed to 
 - RequireDependencies.cs
 
 ## AddressBook.cs
-This is the main script needed to run. Without it, then you practically have nothing then the tools needed to make somethig. 
+This is the main script needed to run. Without it, then you practically have nothing
 
 There are "#pragma warning disable" to ignore certain warnings because there already measures to ensure the field/s will not be null. 
 
