@@ -131,7 +131,7 @@ namespace ABook
             
             throw new FileNotFoundException("the tempData.json file cannot be found. Either it is deleted, renamed, or there is no temp file ");
         }
-        public static void Delete(Information _information) => AddressBooks.Remove(_information);
+        public static void Delete(Information _information) => AddressBooks.Remove(_information); //There can be a big of an issue here. The underlying value itself could not be change, bringing in ambiguity or other issues along the way <TODO>
         public static void Add(Information information) => AddressBooks.Add(information);
         
         #nullable disable
